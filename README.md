@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&lines=Full+Stack+Developer;Open+Source+Contributor;Blockchain+Learner;Always+Learning+New+Tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&lines=Full+Stack+Developer;Tech Hunk;Blockchain+Learner;Always+Learning+New+Tech" alt="Typing SVG">
 </p>
 
 <!-- Profile Views -->
