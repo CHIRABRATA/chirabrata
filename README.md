@@ -1,4 +1,4 @@
-<h1 align="center">👻 Hey there, I'm <strong>Chirabrata Ghosal</strong></h1>
+<h1 align="center"> Hey there, I'm <strong>Chirabrata Ghosal</strong></h1>
 <h3 align="center">A curious full-stack developer wandering the tech multiverse</h3>
 
 <!-- Typing Animation -->
