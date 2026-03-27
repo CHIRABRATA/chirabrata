@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<!-- Arc Reactor Banner -->
+<!-- Arc Reactor Bann -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=CHIRABRATA%20GHOSAL&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=C0C0C0&descAlignY=58&animation=twinkling" />
 
 </div>
