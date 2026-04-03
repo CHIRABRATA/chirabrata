@@ -121,6 +121,21 @@ Passion     : Animations · Clean Architecture · Open Source
 </p>
 
 ---
+---
+
+## 🏆 Merit Recognition — System Accolades
+
+<div align="center">
+
+
+
+<br />
+
+<img src="https://img.shields.io/github/followers/chirabrata?label=SQUAD%20SIZE&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&logoColor=FFD700" />
+<img src="https://img.shields.io/github/stars/chirabrata?label=REPULSOR%20STARS&style=for-the-badge&color=B22222&labelColor=1a1a1a&logo=reverbnation&logoColor=white" />
+<img src="https://img.shields.io/github/repo-size/chirabrata/chirabrata?label=SUIT%20WEIGHT&style=for-the-badge&color=FFD700&labelColor=1a1a1a" />
+
+</div>
 
 ## 🐍 Contribution Grid — Repulsor Blast
 
