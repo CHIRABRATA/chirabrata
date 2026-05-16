@@ -1,25 +1,25 @@
+<div align="center">
 
- <div align="center">
-
-
-<!-- Arc Reactor Bann -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=CHIRABRATA%20GHOSAL&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=C0C0C0&descAlignY=58&animation=twinkling" />
 
 </div>
 
-<!-- JARVIS-style typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=JARVIS+ONLINE...+SYSTEM+INITIALIZED;Full-Stack+Developer+%7C+Mark+VIII;AI%2FML+Explorer+%7C+Neural+Network+Active;React+%7C+Firebase+%7C+Flask+%7C+Node.js;Building+The+Future%2C+One+Commit+At+A+Time" alt="Typing SVG" />
 </p>
 
-<!-- Visitor Badge & Status -->
+<p align="center">
+  <a href="https://gssoc.girlscript.org/" target="_blank">
+    <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="120" alt="GSSoC 2026 Contributor" style="filter: drop-shadow(0px 0px 8px rgba(255,215,0,0.4)); margin: 10px 0;" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chirabrata&label=SUIT+ACTIVATIONS&color=B22222&style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-FFD700?style=for-the-badge&labelColor=1a1a1a&logo=statuspage&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/MODE-DEVELOPER-B22222?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
-<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chirabrata&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
