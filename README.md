@@ -58,6 +58,20 @@
 
 ---
 
+# 🎯 Mission Briefing — Current Focus
+
+<!-- Recruiters and visitors scan for ~30 seconds. This section is the highest-signal
+     real estate on the page — keep it to 3-4 lines and update it monthly. -->
+
+- 🏆 Competing in **Smart India Hackathon 2026** — shipping agentic AI + React + Supabase solutions
+- 📦 Maintaining `promptdiff` — an open-source PyPI library for versioning & diffing LLM prompts
+- 🧠 Deepening Theory of Computation and grinding the Striver A2Z DSA sheet
+- 🛠️ Open to internships and freelance work in full-stack + applied GenAI
+
+<br clear="right"/>
+
+---
+
 # 🦾 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enVpbWgwcTdxNThjNDdiZ212cXpvajVpaDZ6cncxeDM1OWF6YzQ2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g4sCZhKykg1z2/giphy.gif"/>
@@ -80,10 +94,14 @@ Goal        : Become Internship Ready 🚀
 
 | Project | Tech Stack | Description |
 |---|---|---|
+| `promptdiff` (PyPI) | Python | Open-source library for versioning & comparing LLM prompts |
 | Campus Connect | React, Firebase, FastAPI | Temporary campus social platform |
+| GitSync Pro | TypeScript, VS Code API | VS Code extension: conflict detection, secret scanning, commit linting |
 | Rockfall Alert System | Python, CNN | AI-powered rockfall detection |
 | Satellite Detection | TensorFlow, OpenCV | Satellite object recognition |
 | Sentiment Analysis | NLP, Scikit-Learn | Text sentiment prediction system |
+
+> 💡 *`promptdiff` and GitSync Pro are added here as real, verifiable shipped work — feel free to drop either if you'd rather keep the table shorter.*
 
 ---
 
@@ -123,11 +141,59 @@ Goal        : Become Internship Ready 🚀
 
 ---
 
+# ⚡ Power Levels — Suit Systems
+
+```text
+React        ██████████████████░░  90%
+Next.js      ████████████████░░░░  80%
+FastAPI      ███████████████░░░░░  75%
+Supabase     ██████████████░░░░░░  70%
+GenAI / LLMs ████████████████░░░░  80%
+TypeScript   █████████████░░░░░░░  65%
+```
+
+<!-- Trending in 2026 profile READMEs: skip icon-wall "skill bars" plugins (most are
+     abandoned/rate-limited) — a plain code-block meter like this renders everywhere,
+     never breaks, and still reads as a HUD readout. Adjust % by feel, not vanity. -->
+
+---
+
 # 🧠 DSA Power Level
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/chirabrata07?theme=dark&font=Nunito&ext=contest" />
+
+</div>
+
+---
+
+# ⏱️ Weekly Coding Activity (WakaTime)
+
+<!-- SETUP (one-time, ~5 min):
+     1. Create a free account at wakatime.com and install the extension in VS Code.
+     2. Fork https://github.com/athul/waka-readme into your own account.
+     3. Add repo secret WAKATIME_API_KEY (from wakatime.com/settings/api-key).
+     4. Enable the included GitHub Action — it edits this README on a schedule
+        and drops the stats between the START/END markers below. -->
+
+<!--START_SECTION:waka-->
+```text
+From: 24 August 2026 - To: 31 August 2026
+
+Connect WakaTime to populate this graph automatically 📊
+```
+<!--END_SECTION:waka-->
+
+---
+
+# 🎧 Now Playing
+
+<div align="center">
+
+<!-- SETUP: fork kittinan/spotify-github-profile, connect your Spotify account at
+     https://spotify-github-profile.kittinanx.com, then swap YOUR_UID below. -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&bar_color=FFD700&bar_color_cover=false" />
 
 </div>
 
@@ -202,6 +268,33 @@ Goal        : Become Internship Ready 🚀
 <div align="center">
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💬 Leave a Transmission
+
+<!-- Guestbook via giscus (GitHub Discussions-backed comments) — trending add-on for
+     profile READMEs. SETUP: install the giscus app on your chirabrata/chirabrata repo,
+     enable Discussions, then generate your own script config at giscus.app and drop it
+     in place of the placeholder below. -->
+
+<div align="center">
+
+<em>Enable <a href="https://giscus.app">giscus</a> here to let visitors sign the guestbook right on your profile.</em>
+
+</div>
+
+---
+
+# ☕ Support the Mission
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/chirabrata" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a"/>
+</a>
 
 </div>
 
