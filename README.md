@@ -1,88 +1,61 @@
-<div align="center"> 
-   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=CHIRABRATA%20GHOSAL&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=C0C0C0&descAlignY=58&animation=twinkling" />
- 
-</div>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=CHIRABRATA%20GHOSAL&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=C0C0C0&descAlignY=58&animation=twinkling"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=⚡+JARVIS+ONLINE+...+SYSTEM+INITIALIZED;🚀+Full-Stack+Developer+%7C+Mark+VIII;🤖+AI%2FML+Explorer+%7C+Neural+Network+Active;⚛️+React+%7C+Firebase+%7C+FastAPI+%7C+Node.js;💡+Building+The+Future,+One+Commit+At+A+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=⚡+JARVIS+ONLINE+...+SYSTEM+INITIALIZED;🚀+Full-Stack+Developer;🤖+AI%2FML+Explorer;⚛️+React+%7C+FastAPI+%7C+Node.js+%7C+Supabase;💡+Building+The+Future,+One+Commit+At+A+Time"/>
 
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chirabrata&label=SUIT%20ACTIVATIONS&color=B22222&style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/MODE-DEVELOPER-B22222?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
 
-<div align="center">
-
-<a href="https://gssoc.girlscript.org/" target="_blank">
-  <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="120"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=chirabrata&label=SUIT+ACTIVATIONS&color=B22222&style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FFD700?style=for-the-badge&labelColor=1a1a1a&logo=statuspage&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-B22222?style=for-the-badge&labelColor=1a1a1a" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chirabrata&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-<div align="center">
+# ⚡ JARVIS SYSTEM
 
-<img src="https://github-profile-trophy.vercel.app/?username=chirabrata&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
-# ⚡ STARK INDUSTRIES — DEV UNIT
-
-```txt
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                 ⚡ JARVIS SYSTEM ACTIVE ⚡               ║
 ╠══════════════════════════════════════════════════════════╣
 ║ 👤 NAME      : Chirabrata Ghosal                        ║
 ║ 🧠 ROLE      : Full-Stack Developer                     ║
-║ 🤖 FOCUS     : AI/ML + Modern Web Apps                 ║
+║ 🤖 FOCUS     : AI/ML + Modern Web Applications          ║
 ║ 🚀 STATUS    : Learning & Building Daily               ║
-║ ⚙️ MISSION   : Create Scalable Smart Systems           ║
+║ ⚙️ MISSION   : Build Scalable Intelligent Systems       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
----
+# 🎯 Mission Briefing
 
-# 🎯 Mission Briefing — Current Focus
-
-<!-- Recruiters and visitors scan for ~30 seconds. This section is the highest-signal
-     real estate on the page — keep it to 3-4 lines and update it monthly. -->
-
-- 🏆 Competing in **Smart India Hackathon 2026** — shipping agentic AI + React + Supabase solutions
-- 📦 Maintaining `promptdiff` — an open-source PyPI library for versioning & diffing LLM prompts
-- 🧠 Deepening Theory of Computation and grinding the Striver A2Z DSA sheet
-- 🛠️ Open to internships and freelance work in full-stack + applied GenAI
-
-<br clear="right"/>
+* 🚀 Building full-stack applications with **React, Node.js, FastAPI & Supabase**
+* 🤖 Exploring **AI/ML, Generative AI, RAG & LLM applications**
+* 🧠 Solving **DSA & competitive programming problems**
+* 🛠️ Building projects and preparing for **software engineering internships**
 
 ---
 
 # 🦾 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enVpbWgwcTdxNThjNDdiZ212cXpvajVpaDZ6cncxeDM1OWF6YzQ2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g4sCZhKykg1z2/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enVpbWgwcTdxNThjNDdiZ212cXpvajVpaDZ6cncxeDM1OWF6YzQ2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g4sCZhKykg1z2/giphy.gif"/>
 
 ```yaml
 Name        : Chirabrata Ghosal
 Role        : Full-Stack Developer
 Learning    : AI/ML + Deep Learning
 Currently   : Building Projects + Solving DSA
-Passion     : Clean UI • Animation • Open Source
-Tech Stack  : React • Firebase • FastAPI • Node.js
+Interests   : Backend • AI • System Design
+Tech Stack  : React • Node.js • FastAPI • Supabase
 Goal        : Become Internship Ready 🚀
 ```
 
@@ -92,108 +65,69 @@ Goal        : Become Internship Ready 🚀
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| `promptdiff` (PyPI) | Python | Open-source library for versioning & comparing LLM prompts |
-| Campus Connect | React, Firebase, FastAPI | Temporary campus social platform |
-| GitSync Pro | TypeScript, VS Code API | VS Code extension: conflict detection, secret scanning, commit linting |
-| Rockfall Alert System | Python, CNN | AI-powered rockfall detection |
-| Satellite Detection | TensorFlow, OpenCV | Satellite object recognition |
-| Sentiment Analysis | NLP, Scikit-Learn | Text sentiment prediction system |
-
-> 💡 *`promptdiff` and GitSync Pro are added here as real, verifiable shipped work — feel free to drop either if you'd rather keep the table shorter.*
+| Project                      | Technology                           | Description                                                             |
+| ---------------------------- | ------------------------------------ | ----------------------------------------------------------------------- |
+| **GitSync Pro**              | TypeScript • VS Code API             | VS Code extension for detecting and fixing Git synchronization problems |
+| **NyayaSahayak**             | React • FastAPI • Supabase • GenAI   | AI-powered legal assistance and document retrieval                      |
+| **OffGrid**                  | React Native • MapLibre              | Offline location sharing and emergency communication                    |
+| **Backend Guardian**         | Python • AI Agents                   | Agentic system for detecting and fixing backend issues                  |
+| **Event Ticketing Platform** | Node.js • Express • Supabase • Redis | Event management and QR-based ticketing system                          |
+| **Campus Connect**           | React • Firebase • FastAPI           | Campus-focused social platform                                          |
 
 ---
 
 # 🔧 Tech Arsenal
 
-## 🎨 Frontend Development
+## 🎨 Frontend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,figma&theme=dark"/>
 </p>
 
----
+## ⚙️ Backend
 
-## ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark"/>
 </p>
-
----
 
 ## 🗄️ Database & Cloud
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,redis&theme=dark"/>
+</p>
+
+## 🤖 AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 AI / ML Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
----
-
-# ⚡ Power Levels — Suit Systems
+# ⚡ Suit Systems
 
 ```text
 React        ██████████████████░░  90%
-Next.js      ████████████████░░░░  80%
+Node.js      █████████████████░░░  85%
 FastAPI      ███████████████░░░░░  75%
 Supabase     ██████████████░░░░░░  70%
-GenAI / LLMs ████████████████░░░░  80%
+GenAI / LLM  ████████████████░░░░  80%
 TypeScript   █████████████░░░░░░░  65%
 ```
 
-<!-- Trending in 2026 profile READMEs: skip icon-wall "skill bars" plugins (most are
-     abandoned/rate-limited) — a plain code-block meter like this renders everywhere,
-     never breaks, and still reads as a HUD readout. Adjust % by feel, not vanity. -->
-
 ---
 
-# 🧠 DSA Power Level
+# 🧠 DSA STATUS
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/chirabrata07?theme=dark&font=Nunito&ext=contest" />
-
-</div>
-
----
-
-# ⏱️ Weekly Coding Activity (WakaTime)
-
-<!-- SETUP (one-time, ~5 min):
-     1. Create a free account at wakatime.com and install the extension in VS Code.
-     2. Fork https://github.com/athul/waka-readme into your own account.
-     3. Add repo secret WAKATIME_API_KEY (from wakatime.com/settings/api-key).
-     4. Enable the included GitHub Action — it edits this README on a schedule
-        and drops the stats between the START/END markers below. -->
-
-<!--START_SECTION:waka-->
-```text
-From: 24 August 2026 - To: 31 August 2026
-
-Connect WakaTime to populate this graph automatically 📊
-```
-<!--END_SECTION:waka-->
-
----
-
-# 🎧 Now Playing
-
-<div align="center">
-
-<!-- SETUP: fork kittinan/spotify-github-profile, connect your Spotify account at
-     https://spotify-github-profile.kittinanx.com, then swap YOUR_UID below. -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&bar_color=FFD700&bar_color_cover=false" />
+<img src="https://leetcard.jacoblin.cool/chirabrata07?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
@@ -211,9 +145,11 @@ Connect WakaTime to populate this graph automatically 📊
 
 ---
 
+# 🔥 GitHub Streak
+
 <div align="center">
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=chirabrata&theme=radical&background=0d0d0d&border=B22222&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=888888"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=chirabrata&theme=radical&background=0D0D0D&border=B22222&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=888888"/>
 
 </div>
 
@@ -229,7 +165,7 @@ Connect WakaTime to populate this graph automatically 📊
 
 ---
 
-# ⚡ GitHub Metrics
+# 🏆 GitHub Metrics
 
 <div align="center">
 
@@ -239,25 +175,15 @@ Connect WakaTime to populate this graph automatically 📊
 
 ---
 
-# 🏆 Achievement Badges
+# 🏅 Achievement Badges
 
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/chirabrata?label=SQUAD%20SIZE&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github&logoColor=FFD700"/>
 
-<img src="https://img.shields.io/github/stars/chirabrata?label=REPULSOR%20STARS&style=for-the-badge&color=B22222&labelColor=1a1a1a&logo=reverbnation&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/chirabrata?label=REPULSOR%20STARS&style=for-the-badge&color=B22222&labelColor=1a1a1a&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/github/repo-size/chirabrata/chirabrata?label=SUIT%20WEIGHT&style=for-the-badge&color=FFD700&labelColor=1a1a1a"/>
-
-</div>
-
----
-
-# 🧊 Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirabrata&theme=radical"/>
 
 </div>
 
@@ -267,62 +193,69 @@ Connect WakaTime to populate this graph automatically 📊
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/chirabrata/chirabrata/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# 💬 Leave a Transmission
+# ⏱️ Weekly Coding Activity
 
-<!-- Guestbook via giscus (GitHub Discussions-backed comments) — trending add-on for
-     profile READMEs. SETUP: install the giscus app on your chirabrata/chirabrata repo,
-     enable Discussions, then generate your own script config at giscus.app and drop it
-     in place of the placeholder below. -->
+<!--START_SECTION:waka-->
 
-<div align="center">
-
-<em>Enable <a href="https://giscus.app">giscus</a> here to let visitors sign the guestbook right on your profile.</em>
-
-</div>
+<!--END_SECTION:waka-->
 
 ---
 
-# ☕ Support the Mission
+# 🎧 Now Playing
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.buymeacoffee.com/chirabrata" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a"/>
+<a href="https://spotify-github-profile.kittinanx.com/">
+<img src="https://img.shields.io/badge/Spotify-Connect%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-</div>
+</p>
+
+> Spotify Now Playing will appear here after connecting your Spotify account and replacing the card with your generated UID.
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:chirabrataghosal9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
 </a>
 
 <a href="https://github.com/chirabrata">
-  <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=1a1a1a"/>
 </a>
 
-<a href="https://linkedin.com/in/chirabrata">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+<a href="https://www.linkedin.com/in/chirabrata-ghosal-40b942344/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
 </a>
 
-</div>
+</p>
+
+---
+
+# ☕ Support The Mission
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/chirabrata">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-```txt
+```text
 ⚡ "Part of the journey is the end." — Tony Stark
 ```
 
