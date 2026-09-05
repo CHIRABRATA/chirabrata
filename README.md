@@ -209,14 +209,11 @@ TypeScript   █████████████░░░░░░░  65%
 
 # 🎧 Now Playing
 
-<p align="center">
+<div align="center"> <a href="https://github.com/kittinan/spotify-github-profile">
 
-<a href="https://spotify-github-profile.kittinanx.com/">
-<img src="https://img.shields.io/badge/Spotify-Connect%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cbz4vn5yf753yghjqoym7fymcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="500" />
 
-</p>
-
+</a> </div>
 > Spotify Now Playing will appear here after connecting your Spotify account and replacing the card with your generated UID.
 
 ---
