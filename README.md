@@ -6,6 +6,17 @@
 
 <br/>
 
+<!-- ============================================================
+     IRON MAN GIF SLOT
+     1. Pick a GIF (Giphy / Tenor) and download it.
+     2. Create an `assets` folder in this repo and upload it as
+        assets/ironman.gif   (keep it under ~10 MB for fast loading)
+     3. It will show up below automatically.
+     ============================================================ -->
+<img src="./assets/ironman.gif" alt="Iron Man suit-up" width="720"/>
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chirabrata&label=SUIT%20ACTIVATIONS&color=B22222&style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/ARC%20REACTOR-100%25%20CHARGED-00D8FF?style=for-the-badge&labelColor=0d0d0d"/>
@@ -20,7 +31,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 ## ⚡ J.A.R.V.I.S. SYSTEM DIAGNOSTICS & IDENTITY
 
@@ -172,6 +183,8 @@ func main() {
 <br/><br/>
 
 ⚡ *"Part of the journey is the end."* — Tony Stark
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.+Let's+build+something+great.;J.A.R.V.I.S.+standing+by..."/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
